@@ -117,8 +117,8 @@ class Cropper:
 
     def __init__(
         self,
-        width=500,
-        height=500,
+        width=256,
+        height=256,
         face_percent=50,
         padding=None,
         fix_gamma=True,
